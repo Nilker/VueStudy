@@ -1,6 +1,6 @@
 # VueStudy
 
-这是 [最全的vue.js视频【黑马程序员】](https://www.bilibili.com/video/av36650577/) 的笔记和资料
+这是 [最全的vue.js视频【黑马程序员】](https://www.bilibili.com/video/av27969216/) 的笔记和资料
 
 学习此课程需要的知识：
 
